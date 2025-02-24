@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186419093044",
+    "project_id": "intellectus-3de82",
+    "storage_bucket": "intellectus-3de82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186419093044:android:603e68949944f22382f461",
+        "android_client_info": {
+          "package_name": "com.intellectus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186419093044-7lvu8t5v7gbv11netk80vagtgekjv3tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intellectus",
+            "certificate_hash": "2c1a361633b37d7f23926cb49975c92816f43fca"
+          }
+        },
+        {
+          "client_id": "186419093044-ebkrff2s4pgchlgdi747dgsgdg6kg446.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intellectus",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "186419093044-ccdm5vd09ibv7ku0ngqg7mf33kkuu69d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0r9vIawkcb1y3VTYvru7sjEmWZbk0Fcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186419093044-ccdm5vd09ibv7ku0ngqg7mf33kkuu69d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
